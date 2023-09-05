@@ -38,7 +38,6 @@ say <- function(what){
   message(out)
 }
 
-
 #' Whale pun phrases used in say()
 #' @keywords internal
 phrases <-  c(
@@ -52,5 +51,3 @@ phrases <-  c(
   "Whale done! This looks great!",
   "What do you call a pod of noisy whales?        An ORCASTRA!"
 )
-
-
